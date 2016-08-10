@@ -50,10 +50,10 @@ For validator specific options please consult validators manual.
 Example ``validation-options.yaml``::
 
     tabs:
-        enable false
+        enable: false
 
     css:
-        enable false
+        enable: false
 
     linelength:
         length: 250
